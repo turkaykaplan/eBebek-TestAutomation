@@ -1,4 +1,4 @@
-# eBebek-TestAutomation
+# eBebek - Test Automation
 Selenium-Cucumber with Java 
 
 # Scenario
